@@ -1,0 +1,555 @@
+
+
+
+Refinitiv StreetEvents Event Brief
+EDITED BRIEF
+
+AAPL.OQ - Apple Inc
+Q4 2020 Apple Inc Earnings Call
+October 29, 2020 / 09:00PM  GMT 
+
+================================================================================
+CORPORATE PARTICIPANTS
+================================================================================
+   * Luca Maestri 
+     Apple Inc. - CFO &amp; Senior VP 
+   * Tejas Gala 
+     Apple Inc. - IR Contact 
+   * Timothy D. Cook 
+     Apple Inc. - CEO &amp; Director 
+
+================================================================================
+CONFERENCE CALL PARTICIPANTS
+================================================================================
+   * Amit Jawaharlaz Daryanani 
+     Evercore ISI Institutional Equities, Research Division - Senior MD &amp; Fundamental Research Analyst 
+   * Christopher Caso 
+     Raymond James & Associates, Inc., Research Division - Research Analyst 
+   * Kanghui Ong 
+     Deutsche Bank AG, Research Division - Research Analyst 
+   * Kathryn Lynn Huberty 
+     Morgan Stanley, Research Division - MD and Research Analyst 
+   * Krish Sankar 
+     Cowen and Company, LLC, Research Division - MD &amp; Senior Research Analyst 
+   * Kyle P. McNealy 
+     Jefferies LLC, Research Division - Equity Analyst 
+   * Samik Chatterjee 
+     JPMorgan Chase & Co, Research Division - Analyst 
+   * Shannon Siemsen Cross 
+     Cross Research LLC - Co-Founder, Principal &amp; Analyst 
+
+================================================================================
+CORPORATE PARTICIPANTS
+================================================================================
+   * Luca Maestri 
+     Apple Inc. - CFO &amp; Senior VP 
+   * Tejas Gala 
+     Apple Inc. - IR Contact 
+   * Timothy D. Cook 
+     Apple Inc. - CEO &amp; Director 
+
+================================================================================
+CONFERENCE CALL PARTICIPANTS
+================================================================================
+   * Amit Jawaharlaz Daryanani 
+     Evercore ISI Institutional Equities, Research Division - Senior MD &amp; Fundamental Research Analyst 
+   * Christopher Caso 
+     Raymond James & Associates, Inc., Research Division - Research Analyst 
+   * Kanghui Ong 
+     Deutsche Bank AG, Research Division - Research Analyst 
+   * Kathryn Lynn Huberty 
+     Morgan Stanley, Research Division - MD and Research Analyst 
+   * Krish Sankar 
+     Cowen and Company, LLC, Research Division - MD &amp; Senior Research Analyst 
+   * Kyle P. McNealy 
+     Jefferies LLC, Research Division - Equity Analyst 
+   * Samik Chatterjee 
+     JPMorgan Chase & Co, Research Division - Analyst 
+   * Shannon Siemsen Cross 
+     Cross Research LLC - Co-Founder, Principal &amp; Analyst 
+
+================================================================================
+OVERVIEW
+================================================================================
+Co. reported 4Q20 total revenue of $64.7b.
+
+================================================================================
+FINANCIAL DATA
+================================================================================
+
+    1. FY20 revenue = $274.5b.
+    2. 4Q20 total revenue = $64.7b.
+    3. FY20 YoverY revenue growth = 6%.
+    4. 4Q20 YoverY revenue growth = 1%.
+    5. 4Q20 Co. GM = 38.2%.
+    6. 4Q20-end cash plus marketable securities = almost $192b.
+    7. 4Q20-end total debt = $112b.
+    8. 4Q20 share repurchase = $18b through open market repurchases of 168.7m AAPL shares.
+
+
+================================================================================
+PRESENTATION SUMMARY
+================================================================================
+
+--------------------------------------------------------------------------------
+I. 4Q20 Review (T.C.)
+--------------------------------------------------------------------------------
+
+    1. Highlights:
+      1. Back in April, said Co. was in most challenging environment, in which AAPL as co. has ever operated.
+        1. That atmosphere of uncertainty, resolve of making difficult calls with limited information has not only come to define Co.'s year, but each life as individuals across this country and worldwide.
+          1. It has been chapter that none will forget.
+      2. In face of these challenges, Co. stayed relentlessly focused on what it does best, seeing in every obstacle an opportunity to do something new, something creative, something better on behalf of customers.
+      3. Revenue $64.7b.
+        1. Sept.-qtr. record, despite anticipated absence of new iPhone availability during qtr. and ongoing impacts of COVID-19, including closures at many retail locations.
+      4. Set new all-time record for Mac and Services.
+      5. Outside of iPhone, each product categories saw strong double-digit YoverY growth, despite supply constraints in several product categories.
+      6. Results were ahead of expectations, driven by stronger-than-expected iPhone and Services performance.
+      7. As Co. anticipated, launched new iPhone models in Oct., few weeks later than 2019's mid-Sept. launch.
+        1. Up to that mid-Sept. point, customer demand for iPhone was strong, and grew double-digits.
+      8. Services:
+        1. Saw stronger-than-expected performance across board.
+      9. Geographically:
+        1. Set Sept.-qtr. records in the Americas, Europe and Rest of Asia Pacific.
+        2. Set Sept.-qtr. record in India, thanks in part to strong reception to this qtr.'s launch of online store in country.
+        3. Greater China is region that was most heavily impacted by absence of new iPhones during Sept. qtr.
+          1. Still beat internal expectations, growing non-iPhone revenue strong double-digits, and iPhone customer demand grew through mid-Sept.
+    2. Additional Details:
+      1. This year, Co. set all-time revenue record of $274.5b, growing 6% YonY.
+        1. Grew every qtr., set all-time yearly records in Mac, Wearables, Home and Accessories, and Services, and grew double-digits in every product category outside of iPhone.
+      2. When Co. first began to grapple with COVID-19, Co. said there are worse things for co. whose business is innovation, than having to periodically do just about everything in entirely new way.
+        1. This year, Co. launched its most powerful and compelling generation of hardware, software and services ever.
+          1. Co. did it in way that pushes to reimagine every part of that innovation process, down to how it shares these announcements with world and how it gets new products into customers' hands.
+      3. In year that has been enormously challenging, retail teams, contact centers, and all those who work with customers most closely, have gone to creative and dedicated links to keep serving customers.
+        1. From adapting stores for contactless pickup, to new Apple Express storefronts, to new online customer support options.
+      4. Pandemic has hit home for all of people.
+        1. At AAPL, Co. has seen it as call to action.
+        2. Co. has seen pain in Co.'s communities.
+        3. Many has seen children work hard to adapt to remote learning.
+          1. All know that road ahead is uncertain.
+      5. COVID-19 response:
+        1. Pledged $100m to new Racial Equity and Justice Initiative.
+        2. Co. has committed to be fully carbon neutral by 2030 across entire supply chain and device usage, as massive wildfires, hurricanes and floods, bring home consequences of climate change for all.
+        3. Deepened enduring educational partnerships, from coding education beginning in elementary school, to new efforts with dozens of historically black colleges and universities.
+        4. One of many areas where COVID-19 continues to have significant impact, is in education.
+          1. As teachers, students and parents alike work hard to keep education relevant, creative and effective, Co.'s products have helped them meet moment.
+          2. In a typical year, back-to-school season is bustling time for Co.
+          3. This year that was true in biggest way ever.
+          4. Helped school districts worldwide meet this moment in unprecedented way, including starting nine of 10 largest school district deployments ever, that alone will support over 1m students and teachers.
+          5. Supported these deployments and educators and learners everywhere with free tools and training, reaching over 150,000 teachers and millions of parents and students worldwide.
+    3. Products:
+      1. Looking forward, feels great optimism about road in front of Co.
+        1. Co. is in midst of its most prolific product introduction period ever.
+      2. In addition to announcement of HomePod Mini, which achieves unmatched sound quality and Siri and smart-home capabilities in small and affordable format, Co. marked beginning of new era for iPhone, with arrival of first 5G-enabled devices.
+      3. iPhone 12 and 12 mini, boasts powerful breakthroughs like edge-to-edge Super Retina XDR display, unprecedented durability with new ceramic shield, developed with partners at Corning, new MagSafe charging and accessories, fastest ever A14 Bionic chip, and new dual camera system, driven by computational photography.
+      4. iPhone 12 Pro and 12 Pro Max take all of this to even higher level, driven by most powerful photo and video tools ever delivered by smartphone, including all-new LiDAR scanner and ability to shoot Apple ProRAW and full Dolby video.
+      5. All of these devices bring 5G experience users have been waiting for, with lightning fast downloads and uploads, new standard in video streaming, more responsive gaming and much more.
+      6. Early product reviews have been tremendously positive.
+        1. Optimistic about what next few weeks will bring.
+      7. Seeing positive response to Sept. announcements.
+        1. All-new Apple Watch Series 6 boasts powerful new health and wellness features, including blood oxygen sensor, next-generation altimeter, and wide variety of new colors and bands.
+        2. Potential for Apple Watch's powerful health and wellness capabilities continues to grow.
+        3. On 10/28/20, government of Singapore and AAPL launched LumiHealth, first-of-its-kind program, designed to encourage healthy activity and behaviors using Apple Watch.
+          1. Created in collaboration with team of physicians and public health experts, LumiHealth uses technology and behavioral insights to encourage Singaporeans to keep healthy and complete wellness challenges through their Apple Watch and iPhone.
+      8. iPad lineup continues to set pace for category, including new iPad Air, now shipping with A14 Bionic (Co.'s most powerful chip ever).
+      9. Announced Apple Fitness Plus, which delivers deep personalization and integration across fitness tools.
+      10. Apple One, launching on 10/30/20, is easiest way for users to enjoy Co.'s services like Music, TV+, Arcade, iCloud, News+ and Fitness+ on single plan that is right for them and their family.
+    4. Services:
+      1. Excited about what Co. sees.
+      2. This was record qtr. for App Store, AppleCare, Cloud Services, Music and Payment Services.
+        1. App Store, in particular, continues to play essential role in helping small businesses, educational institutions and workplaces adapt to COVID-19.
+      3. Apple TV+ continues to impress from fan favorites like Ted Lasso, which has won worldwide audience with its hopeful tone during challenging times, to critical and award praise, including Primetime Emmy for Billy Crudup in The Morning Show.
+      4. This year has few more exciting things in store.
+    5. Resilience:
+      1. Financial performance aside, Co. doesn't think this year will be time that any people look back on with great fondness or nostalgia.
+      2. Even as things Co. makes require it to operate at cutting edge of technology, in materials, products and ideas that didn't exist just few years ago, this year has forced it to face plainly things that make it human; disease, resilience and hope.
+      3. Couldn't be prouder of team, work Co. has done and small role it has played in helping communities find hope and resilience in this time.
+
+--------------------------------------------------------------------------------
+II. 4Q20 Financials (L.M.)
+--------------------------------------------------------------------------------
+
+    1. Highlights:
+      1. New Sept.-qtr. revenue record.
+        1. Caps remarkable level of performance for FY20, during which Co. set new all-time records for revenue, EPS and free cash flow, despite extremely volatile and challenging macro environment.
+      2. Total revenue $64.7b.
+        1. Up 1% YoverY.
+        2. This is impressive level of performance considering this year, Co. did not launch and ship any new iPhone models during qtr.
+      3. Outside of iPhone, grew 25% in aggregate.
+        1. Had strong double-digit YoverY revenue growth in each product categories.
+        2. Set all-time records for Mac and Services, and Sept.-qtr. record for Wearables, Home and Accessories.
+        3. Achieved new Sept.-qtr. records in vast majorities of countries that Co. tracks, including among others, US, Canada, Brazil, Germany, France, Italy, Spain, Turkey, Russia, India, Korea, Thailand, Malaysia and Vietnam.
+      4. Products revenue $50.1b.
+        1. Strong underlying performance across each product category.
+        2. Products, outside of iPhone, grew combined 30%, despite supply constraints on iPad, Mac and Apple Watch throughout qtr.
+      5. iPhone:
+        1. Through mid-Sept., customer demand grew double-digits.
+          1. Due to this level of sales performance and unmatched loyalty of customers, installed base of active devices reached all-time high in aggregate, and in each major product categories.
+      6. Services:
+        1. Set all-time record of $14.5b, growing 16% YoverY.
+        2. Established new all-time records in many Services categories, and Sept. qtr. records in each geographic segment.
+      7. GM:
+        1. Co. GM 38.2%.
+          1. Up 20 BP sequentially, due to cost savings and higher mix of services, partially offset by different mix of products.
+        2. Products 29.8%, growing 10 BP sequentially, driven by cost savings, partially offset by different mix.
+        3. Services 66.9%, decreasing 30 BP sequentially, mainly due to different mix.
+    2. iPhone:
+      1. Revenue $26.4b.
+        1. Co. did not have availability of new iPhone models during Sept.-qtr. this year, which it had mentioned during call in July.
+      2. While COVID-19 and social distancing measures impacted store operations in significant manner, demand for iPhone remained strong.
+        1. Through mid-Sept., customer demand for current product lineup grew double-digits, and was well above expectations.
+      3. Active installed base reached new all-time high, thanks to exceptional loyalty of customer base and strength of ecosystem.
+        1. In US, last survey of consumers from 451 Research, indicates iPhone customer satisfaction of 98% for iPhone 11, 11 Pro and 11 Pro Max combined.
+    3. Services:
+      1. Set all-time revenue record of $14.5b.
+      2. Grew strong double-digits and set all-time records in App Store, Cloud Services, Music, advertising and payment services.
+      3. Set all-time record in AppleCare, as in-store traffic improved and Co. was able to support more customers.
+      4. New services, Apple TV+, Apple Arcade, Apple News+, and Apple Card are contributing to overall Services growth, and continue to add users, content and features.
+      5. Key drivers:
+        1. Installed base continues to grow, and is at all-time high across each major product category.
+        2. Number of transacting and paid accounts on digital content stores, reached new all-time high during Sept.-qtr., with paid accounts increasing double-digits in each geographic segments.
+        3. Paid subscriptions grew more than 35m sequentially.
+          1. Now has over 585m paid subscriptions across services on platform; up 135m YoverY.
+          2. With this momentum, confident to reach and exceed increased target of 600m paid subscriptions before end of calendar 2020.
+      6. Continued to improve breadth and quality of current services offerings, and is adding new service offerings that Co. thinks customers will love, like Apple One and Apple Fitness+.
+    4. Wearables, Home &amp; Accessories:
+      1. Revenue $7.9b; new Sept.-qtr. record.
+        1. Up 21% YoverY.
+      2. Set Sept.-qtr. records in every geographic segment and for each three product categories.
+        1. Wearables.
+        2. Home.
+        3. Accessories.
+      3. Wearables business is now the size of Fortune 130 co.
+      4. Apple Watch continues to extend its reach, with over 75% of customers purchasing Apple Watch during qtr., being new to product.
+      5. Excited about future of this category, including recent launches of new products.
+        1. Apple Watch Series 6 NFC.
+        2. HomePod Mini.
+        3. MagSafe ecosystem of accessories.
+    5. Mac:
+      1. Revenue $9b; all-time record.
+        1. Up 29% YoverY.
+        2. $1.6b above previous record, despite supply constraints during qtr.
+      2. Grew strong double-digits in each geographic segment and set all-time revenue records in Americas, and rest of Asia Pacific and Sept.-qtr. records in Europe and Japan.
+      3. Has seen amazing customer response to new MacBook Air and MacBook Pro and strong demand during back-to-school season.
+    6. iPad:
+      1. Performance was impressive.
+      2. Revenue $6.8b.
+        1. Up 46%.
+        2. Highest Sept.-qtr. revenue in eight years, despite supply constraints.
+      3. Demand exceeded expectations worldwide, as Co. grew strong double-digits in every geographic segment, including all-time record in Japan and Sept.-qtr. record in Americas.
+    7. Others:
+      1. Mac and iPad are incredibly relevant products for customers in the current working and learning environments.
+      2. Co. is delighted that most recent surveys of consumers from 451 Research, measured customer satisfaction at 93% for Mac and 95% for iPad.
+        1. With this level of customer satisfaction and with around half of customers purchasing Mac and iPad during qtr. being new to that product, active installed base for both products reached new all-time high.
+    8. Enterprise Market:
+      1. Products are helping companies grow their business, while achieving their sustainability goals.
+        1. Vestas, leading producer of wind turbines, using Apple products and native iOS apps extensively across their operations to deliver renewable energy efficiently to customers worldwide.
+          1. They use iPads to help optimize onsite construction operations, cutting crane usage on avg. by one day per project.
+          2. Vestas field technicians are using iPhone for work orders, troubleshooting a remote collaboration, saving them 400,000 service hours annually.
+          3. More recently, they've started piloting augmented reality capability in iPads, to help customers visualize wind turbine installations in field.
+        2. In Switzerland alone, Zurich Insurance has reduced paper consumption by over 10,000 sheets per day, by equipping 1,000 customer advisors with iPads.
+        3. Air Canada is reducing its carbon footprint by over 2,200 metric tons annually, by loading flight plans and manuals onto iPads, rather than using paper.
+    9. Cash Position:
+      1. Qtr.-end cash plus marketable securities, almost $192b.
+      2. Issued $5.5b of new term debt, and decreased short-term borrowing facilities by $6.2b, leaving Co. with total debt of $112b.
+      3. Qtr.-end net cash $79b.
+        1. Continues on its path to reaching net cash neutral position over time.
+      4. Returned nearly $22b to shareholders, including $3.5b in dividends and equivalents, and $18b through open market repurchases of 168.7m AAPL shares.
+      5. Retired additional 3.1m shares in final settlement of 16th ASR.
+    10. FY20 Highlights:
+      1. Grew revenue by 6% to $274.5b; new all-time record.
+      2. Showed remarkable resilience throughout year, as Co. was able to grow revenue and installed base of active devices in every qtr.
+      3. Despite most challenging economic environment Co. can remember, it set new revenue records in:
+        1. Americas.
+        2. Europe.
+        3. Rest of Asia Pacific.
+      4. Grew business outside of iPhone by 16%.
+      5. Grew EPS 10% to new all-time record.
+      6. Continued to deliver innovative products and services that customers love.
+    11. Outlook (Dec.-qtr.):
+      1. Given continued uncertainty worldwide in near term, will not be issuing revenue guidance for coming qtr.
+        1. Providing some insights on expectations for Dec.-qtr. for product categories.
+          1. These directional comments assume COVID-related impacts to business in Nov. and Dec. are similar to what Co. is seeing in Oct.
+      2. Started shipping iPhone 12 and 12 Pro; Co. is off to great start.
+      3. Excited to start pre-orders on iPhone 12 mini and 12 Pro Max on 11/06/20.
+      4. Given tremendously positive response, expects iPhone revenue to grow during Dec.-qtr., despite shipping iPhone 12 and 12 Pro four weeks into qtr., and iPhone 12 mini and 12 Pro Max seven weeks into qtr.
+      5. Expects all other products in aggregate to grow double-digits.
+      6. Expects Services to continue to grow double-digits.
+      7. GM:
+        1. Expects it to be similar to most recent quarters, despite costs associated with launch of several new products.
+      8. OpEx $10.7-10.8b.
+      9. OI&amp;E, around $50m.
+      10. Tax rate, around 16%.
+    12. Dividend:
+      1. On 10/29/20, Board of Directors has declared cash dividend of $0.205 per share of common stock, payable on 11/12/20 to shareholders of record as of 11/09/20.
+
+================================================================================
+QUESTIONS AND ANSWERS
+================================================================================
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+We'll hear first today from Shannon Cross, Cross Research. 
+
+--------------------------------------------------------------------------------
+Shannon Siemsen Cross - Cross Research LLC - Co-Founder, Principal &amp; Analyst    [2]
+--------------------------------------------------------------------------------
+Tim, can you talk a bit more about China? And in terms of linearity, I think, Luca, you'd mentioned that Services in all regions were at an all-time high. I'm not sure exactly what your comment was. But maybe give us a little idea of whether you're seeing any blowback or benefit from the Huawei situation and just dig a bit more into the trends you're seeing in China. And then I have a follow-up. 
+
+--------------------------------------------------------------------------------
+Timothy D. Cook - Apple Inc. - CEO &amp; Director    [3]
+--------------------------------------------------------------------------------
+Thanks, Shannon. If you look at China and look at last quarters -- I'll talk about both last quarter and this quarter a bit. Last quarter, what we saw was our non-iPhone business was up strong double digit for the full quarter. And then if you look at iPhone and you look at it in 2 parts: one, pre-mid-September, which is pre the point at which the previous year we would have launched iPhones, that, that period of time, which was the bulk of the quarter, iPhone was growing from a customer demand point of view. And of course, the -- not shipping new iPhones for the last 2 weeks of September makes that number in the aggregate a negative. 
+
+But the net is the underlying business in China last quarter was very strong and perhaps very different than you might think from just a quick look at the stated number. 
+
+In terms of this quarter, given the explanation for last quarter and the momentum that we've got, and as importantly, given the initial data points that we see on iPhone 12 and iPhone 12 Pro, although we don't guide to revenue, as Luca said, I would tell you that we are confident that we will grow this quarter in China. And so we're very bullish on what's going on there. 
+
+A little more color on last quarter. We had a much more significant inventory drawdown on the channel side than other regions. And so that is one reason why the numbers are different than other regions. And additionally, the new products in the year-ago quarter were a higher percentage of our iPhone sales than they were in other regions. So hopefully, that explains what's going on in China. 
+
+In terms of the market there, 5G is fairly advanced there. They're forecasting 600,000 base stations by the end of the year, and so we're entering the market at a very good time. And with the reception that we've gotten so far, we're very confident there. 
+
+--------------------------------------------------------------------------------
+Shannon Siemsen Cross - Cross Research LLC - Co-Founder, Principal &amp; Analyst    [4]
+--------------------------------------------------------------------------------
+Okay, great. And then can you talk a bit about just overall in the world -- the cadence that you see sort of for the 5G adoption launch? What you see will be sort of the key drivers? Obviously, there's a fair amount of subsidies going on in the U.S. at this point. 
+
+--------------------------------------------------------------------------------
+Timothy D. Cook - Apple Inc. - CEO &amp; Director    [5]
+--------------------------------------------------------------------------------
+Yes. We're working hard to provide the best experience for our iPhone users. To do so, we've been collaborating closely with carriers all around the world to ensure iPhone has great throughput and coverage and battery and call quality. We've completed 5G testing so far on over 100 carriers, in over 30 regions. And so it's pretty pervasive around the world. But grantedly, it will continue to roll out in more places as carriers continue to expand their coverage, and this will happen every week. And so it's just going to get better. There are obvious places in the world where it's more ahead than in others, but we feel like we are entering at -- sort of at exactly the right time. 
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+That will be from Jeriel Ong with Deutsche Bank. 
+
+--------------------------------------------------------------------------------
+Kanghui Ong - Deutsche Bank AG, Research Division - Research Analyst    [7]
+--------------------------------------------------------------------------------
+Yes. I guess -- I appreciate the guidance for revenues to grow. But I guess my question, perhaps if I could, is relative to seasonality. You guys -- over the last 5 years, your seasonality is typically up about 50% quarter-on-quarter. Do you think that you can beat that even with the later release? And I have a follow-up. 
+
+--------------------------------------------------------------------------------
+Luca Maestri - Apple Inc. - CFO &amp; Senior VP    [8]
+--------------------------------------------------------------------------------
+So as I said, Jeriel, we're not providing a range for the reasons that I explained during my prepared remarks. So you need to keep in mind a couple of things that are unique about this quarter versus the past. And then I mentioned again, the launch timing of the phones is different from the past. So we're launching the new iPhones 4 weeks into the quarter for 2 models, for the 12 and the 12 Pro; and 7 weeks into the quarter for the other 2, the iPhone mini and the 12 Pro Max. So that is something to keep in mind as you think about the growth rates. 
+
+With regard to all the other product categories, as I said, we are expecting to grow double digits essentially across the board for the rest of our products and for services. And so we are incredibly optimistic about what we're seeing so far. Obviously, we started taking preorders 5 days ago, and so it's a bit early for the phone. But we think that there are a lot of tailwinds this year for iPhone, for the entire cycle, some of the comments that Tim has already made, right? We've got the best lineup of iPhones that we've ever had. We've got an installed base of iPhone that is very large, continues to grow. It's at an all-time high. 
+
+Obviously, 5G is a once-in-a-decade opportunity. And as you've seen in some markets, certainly here in the United States, carrier offers are very aggressive. And so that is very good for consumers and ultimately very good for us. So very, very optimistic, given what we've seen so far. 
+
+--------------------------------------------------------------------------------
+Kanghui Ong - Deutsche Bank AG, Research Division - Research Analyst    [9]
+--------------------------------------------------------------------------------
+Awesome. Thank you so much for that context and giving us some of the levers to think about. I'd like to ask a little bit more of a strategic one, a little bit longer term in nature. I think the one thing that's interesting about the Apple One bundle is the desire to bundle in the first place. I guess I'm wondering, and some investors have asked me this as well, is that why wouldn't you also take that rationale perhaps to hardware, perhaps maybe AirPods and iPhone or AirPods, Watch and iPhone? Because if it makes sense to bundle services, wouldn't it also make sense to bundle hardware? And if that's not the case, then are there benefits of services bundling that don't necessarily translate to hardware bundling? 
+
+--------------------------------------------------------------------------------
+Timothy D. Cook - Apple Inc. - CEO &amp; Director    [10]
+--------------------------------------------------------------------------------
+Yes. We don't have anything to announce today on a hardware bundle. But backing up a bit, and we do view that people like to pay for their hardware, or at least some substantial portion of it, monthly. And so that's the reason that we have implemented installments in our stores and online. And that's the reason you see in some of the channels, too, selling a hardware on a per month kind of basis. That begins to look like subscription perhaps to some buyers because they're used to holding the phone for X period of time and then turning it over and using the residual value of that phone in a way that gives them a de facto kind of subsidy on a new phone. And so there is something today in the market that works somewhat similar. On the Services side, we had customers coming to us and asking for an easier way to buy all of our services, and we wanted to provide that, and we're looking forward to tomorrow to getting Apple One out there. 
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+That will come from Katy Huberty with Morgan Stanley. 
+
+--------------------------------------------------------------------------------
+Kathryn Lynn Huberty - Morgan Stanley, Research Division - MD and Research Analyst    [12]
+--------------------------------------------------------------------------------
+New technologies, including the chips that support 5G, put upward pressure on cost this year, but you managed to leave ASPs for iPhones relatively unchanged this product cycle. How should we think about the margin profile of iPhone 12 relative to past iPhone cycles? 
+
+--------------------------------------------------------------------------------
+Luca Maestri - Apple Inc. - CFO &amp; Senior VP    [13]
+--------------------------------------------------------------------------------
+Katy, obviously, we don't provide any outlook at the gross margin level for product categories. What I said in my prepared remarks, we expect gross margins in total for the company to be pretty much in line with what we've seen during the last quarter, which obviously, as you said, it's very good, right, because we are offering the new phones at price points that are essentially unchanged, and we're taking on a lot of new technology into the phones. 
+
+The -- I would say the commodity environment is good. For the first time in many, many quarters, I don't have to say that foreign exchange is a headwind getting into the quarter. It's not going to be a factor during the quarter. As we've made clear in our comments, we are bullish about our sales performance expectations, so we should be getting some leverage. And so I think the gross margin dynamics are good, and it's very good to see that we're able to offer so much more technology and still able to deliver the level of gross margins that I think investors are expecting. 
+
+--------------------------------------------------------------------------------
+Kathryn Lynn Huberty - Morgan Stanley, Research Division - MD and Research Analyst    [14]
+--------------------------------------------------------------------------------
+Okay. And shifting to the Services business. This isn't dependent on certainly any one service, but licensing and other historically has been a driver of growth. That's where the ad-based revenue comes in. When you think about the Google antitrust pressure, what's the risk that you see some shrinkage in your licensing and other segment within Services? And do you see opportunities for other services to make up for any potential weakness? 
+
+--------------------------------------------------------------------------------
+Timothy D. Cook - Apple Inc. - CEO &amp; Director    [15]
+--------------------------------------------------------------------------------
+We've got -- Katy, as you know, we've announced a number of services over the last couple of years. And we are ramping those between Apple TV+ and Apple News+ and Apple Arcade. We've got Apple Card. We've got Apple Fitness+ coming. We've got a number of services that have been launched a bit longer that are doing really well from the App Store to iCloud. And so there's a lot of room there and potential there. I have no idea how the DOJ suit will go, but I think it's a long way from a conclusion on it. 
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+That will come from Evercore's Amit Daryanani. 
+
+--------------------------------------------------------------------------------
+Amit Jawaharlaz Daryanani - Evercore ISI Institutional Equities, Research Division - Senior MD &amp; Fundamental Research Analyst    [17]
+--------------------------------------------------------------------------------
+I guess I have 2 as well. First off, Tim, on iPhones, you talked about the iPhone installed base, I think, being the highest or largest it's ever been. Satisfaction rate is obviously pretty high. And our data would suggest replacement cycles are getting elongated. And if I take all of that together, along with the fact that if iPhone users are like me with embarrassingly high weekly usage rates, does that, in aggregate, give you better confidence, better clarity that we could enter an extensive period of iPhone revenue growth versus what we've seen in the last couple of years? 
+
+--------------------------------------------------------------------------------
+Timothy D. Cook - Apple Inc. - CEO &amp; Director    [18]
+--------------------------------------------------------------------------------
+We are very bullish on this cycle, very bullish on it because as I sort of step back from it and look at what we've now done, we have -- for the first time ever, we've launched 4 iPhones, and there is an iPhone for everyone there. And it is the strongest lineup we've ever had by far. We have -- we do have a very large, loyal and growing installed base, and we're also reaching out to switchers, and so I'm very optimistic there. We've got a once-in-a-decade opportunity with 5G. There's a lot of excitement around 5G. And we've got some aggressive offers in the marketplace. And so when I think about all of those, I'm really -- and I looked at the initial data points that we've got on the iPhone 12 and the 12 Pro, we are off to a great start. 
+
+--------------------------------------------------------------------------------
+Amit Jawaharlaz Daryanani - Evercore ISI Institutional Equities, Research Division - Senior MD &amp; Fundamental Research Analyst    [19]
+--------------------------------------------------------------------------------
+Got it. And then I guess, Luca, I had a follow-up for you on the Services gross margins, which have kind of continued to move higher rather nicely. I mean do you think these levels at 67% essentially are sustainable? And what do you think are the 2 or 3 factors that are enabling these gross margins to remain here as we go forward? 
+
+--------------------------------------------------------------------------------
+Luca Maestri - Apple Inc. - CFO &amp; Senior VP    [20]
+--------------------------------------------------------------------------------
+I mean, obviously, we're very pleased with the level of gross margins in Services. As you said, they've been expanding almost 300 basis points on a year-over-year basis. The reason for that is, of course, that we are growing the Services revenue and therefore, we're getting leverage on a lot of these Services, right? Some of it, as explained in the past, we have a portfolio of services that got different margin profiles. And so sometimes depending on the mix of products we have, we can see margin expansion through mix as well. 
+
+So -- but we're also launching new services that where we need to invest heavily upfront. And -- but we think we've been able to show, for example, this year that we've launched a lot of new services, made all the necessary investments and still being able to expand gross margin. So we feel quite confident about the trajectory that we have for Services. And we're very, very happy to see the customer response to really all of them because, as we've mentioned earlier, I mean, we've seen revenue records across essentially every category and across the entire world, right? We've seen September quarter records in every geography around the world. So all the dynamics, all the levers that we have in the Services business are working very well right now. And that translates also into margin, of course. 
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+We'll hear from Samik Chatterjee with JPMorgan. 
+
+--------------------------------------------------------------------------------
+Samik Chatterjee - JPMorgan Chase & Co, Research Division - Analyst    [22]
+--------------------------------------------------------------------------------
+I just wanted to start off with the iPhone lineup here, particularly, as you mentioned, the carrier subsidies that you're seeing makes you optimistic about iPhone sales. I think just looking at some other factors here, earlier in the year, you had mentioned that iPhone sales were seeing an uptick with stimulus checks going out to consumers, helping in the consumer spending overall here in the U.S. So as we see some delays here on that front, are you seeing anything change on the consumer spending side? Is the macro impacting how you think about iPhone sales, particularly even with the new product lineup? And I have a follow-up. 
+
+--------------------------------------------------------------------------------
+Timothy D. Cook - Apple Inc. - CEO &amp; Director    [23]
+--------------------------------------------------------------------------------
+It's -- prior to mid-September, we were seeing double-digit growth in customer demand on iPhone. So there's a lot of momentum there, and there is a lot of momentum even much more so now given the launch of the 12 Pro and the iPhone 12. If you're asking whether it could have been even more with a different macro spending environment, I believe the answer to be yes. But you can't run the experiment, and so I don't know for sure. But I suspect that just the COVID, in general, takes something off from a worldwide economic point of view. 
+
+--------------------------------------------------------------------------------
+Samik Chatterjee - JPMorgan Chase & Co, Research Division - Analyst    [24]
+--------------------------------------------------------------------------------
+Okay. All right. And if I can just follow up -- just following up on that COVID discussion. We are potentially here looking at a second wave, right? And I think all companies are trying to prepare for that, which you discussed as well in your prepared remarks. But if you can share any kind of thoughts about how you're preparing in relation to either inventory levels or sourcing from the supply chain to prepare for any potential disruption like we had earlier this year. 
+
+--------------------------------------------------------------------------------
+Timothy D. Cook - Apple Inc. - CEO &amp; Director    [25]
+--------------------------------------------------------------------------------
+Well, we're doing everything we can do, but we're prioritizing safety first, obviously. And so with our stores as an example, we've come up with a new concept that puts an -- essentially turns the store into an express storefront. And we've implemented that in a number of places where we believe it helps from the safety of our employee and the safety of the customer's point of view but still allows for an interaction to take place. 
+
+And so we've also put a lot more people on the phones because a lot more people are reaching out to us in that way. And of course, the online store has stayed up and running through the whole of this. I think if you take some of those, the channel is doing some similar things and then some different things as well. And so I think everybody, to the best of their ability, is putting in contingency plans and finding a way to adapt to the environment. But it is difficult to call, and there's a level of uncertainty in it, obviously, and that's what Luca was referring to earlier. 
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+That will come from Krish Sankar with Cowen and Company. 
+
+--------------------------------------------------------------------------------
+Krish Sankar - Cowen and Company, LLC, Research Division - MD &amp; Senior Research Analyst    [27]
+--------------------------------------------------------------------------------
+I had 2 of them. First 1 for Luca. I understand you don't want to give color on gross margin by product or segment. But Luca, you mentioned gross margin should be similar in December versus September, and Services should grow around double digits. There's a general view that on the iPhone side, the BOM cost would be a headwind for gross margin, but the carrier subsidies would be a tailwind. So I'm kind of curious, how should we think about the different like gross margin levels into December quarter? And then I had a follow-up for Tim. 
+
+--------------------------------------------------------------------------------
+Luca Maestri - Apple Inc. - CFO &amp; Senior VP    [28]
+--------------------------------------------------------------------------------
+Yes. So typically, during the December quarter, we have positive factors because we have the typical seasonal leverage, right, sequentially as we go from September to the holiday season. And we also have an improved mix between products, particularly this year, as we've launched the new iPhone. At the same time, we shouldn't forget that we have launched a lot of new products during the last several weeks. We launched 4 new models of iPhone. We launched new models of Apple Watch, new models of iPad. And so clearly, every time we launch a new product, the cost structure is higher, and so that is going to be the other side of the coin. But we think that those 2 things should balance out. And again, as I was saying earlier, we are accomplishing this while delivering a lot of new technologies, a lot of new features to our customers. This time, foreign exchange is not a factor, and that's something that is a bit different from the past. So -- but those are the pluses and minuses. 
+
+--------------------------------------------------------------------------------
+Krish Sankar - Cowen and Company, LLC, Research Division - MD &amp; Senior Research Analyst    [29]
+--------------------------------------------------------------------------------
+Got it. That's very helpful, Luca. And then a follow-up for Tim. Tim, was kind of surprised, you didn't say a lot about the payments ecosystem in these prepared comments. Kind of curious to find out from your vantage point how you think of your whole payment ecosystem, including Apple Card, Apple Pay, Apple Cash and how you're disaggregating the whole fintech environment. 
+
+--------------------------------------------------------------------------------
+Timothy D. Cook - Apple Inc. - CEO &amp; Director    [30]
+--------------------------------------------------------------------------------
+Thanks for the question. There's just a limited number of things I can talk about, it's kind of the reason I didn't talk about it. We're -- we continue to be very enthusiastic about the whole payment services area. Apple Card is doing well, and Apple Pay is doing exceptionally well. As you can imagine, in this environment, people are -- less want to hand over a card, so this contactless payment has taken on a different level of adoption in it that I think will never go back. The U.S. has been lagging a bit in contactless payment, and I think that the pandemic may well get -- put the U.S. on a different trajectory there. And so we are very bullish about this area and view that there are more things that Apple can do in this space. And so it's an area of great interest to us. 
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+That will come from Kyle McNealy with Jefferies. 
+
+--------------------------------------------------------------------------------
+Kyle P. McNealy - Jefferies LLC, Research Division - Equity Analyst    [32]
+--------------------------------------------------------------------------------
+I wanted to ask a little bit about the supply chain, given your later start for manufacturing for the flagship phone lineup this year. Do you think that supply will be able to meet demand through the end of the calendar year? And are there any component shortages that you're seeing? Or are there any actions that you can take to increase weekly output versus last year? 
+
+--------------------------------------------------------------------------------
+Timothy D. Cook - Apple Inc. - CEO &amp; Director    [33]
+--------------------------------------------------------------------------------
+Yes. Kyle, I don't know if you're talking about iPhone in particular. But if you look at iPhone, we are constrained today, and that's not a surprise, we're at the front end of the ramp, if you will. And how long we will be supply constrained, it's hard to predict. I mean we haven't taken orders yet for the iPhone 12 mini or the Pro Max either. And so those are coming, and so we shall see. But right now, we are supply constrained. 
+
+We are also supply-constrained -- for avoidance of any confusion, we're supply-constrained on Mac. We're supply-constrained on iPad, and we're supply-constrained on some Apple Watches as well. And so we have a fair number of areas right now of focus, and we're working really, really hard to remedy those as quickly as we can. But at this point, I can't estimate when we'll be out of that. 
+
+--------------------------------------------------------------------------------
+Kyle P. McNealy - Jefferies LLC, Research Division - Equity Analyst    [34]
+--------------------------------------------------------------------------------
+Okay. Great. And then switching to Mac and iPad. How do you think about the durability of the strength you're seeing there with Mac and iPad? Is there any potential for stronger-than-seasonal pullback after the strong back-to-school season and holiday season? And the supply constraints make it feel like there's a good chance for continuation of the strong demand trends and flow-through of that. What should we think about the seasonality into the December and March quarter, being more positive than seasonal or less positive than seasonal? 
+
+--------------------------------------------------------------------------------
+Timothy D. Cook - Apple Inc. - CEO &amp; Director    [35]
+--------------------------------------------------------------------------------
+Yes. We've placed our thoughts in the color that Luca provided when he said that all products excluding iPhone -- all products and services excluding iPhone -- or all products, rather, excluding iPhone would grow in the double digits. And so we continue to be bullish on what Mac and iPad can do. The -- I think the moves that have taken place to remote learning and remote work are not going to go back to normal. Normal will become something different because I think people are learning that there are aspects of this that work well. And so I don't believe that we're going to go back to where we were. 
+
+And I think that means that iPads and Macs are even more important in those environments. The growth in both of these last quarter were phenomenal, as you can tell from your -- from data sheet with Mac at 29 and iPad at 46. These are tremendous numbers. And as Luca said, the September quarter was the all-time high for Mac in the history of the company and by -- not by a little bit, by $1.6 billion. And so it was a substantial difference. Now we did have an aggressive promotion for college students that were going back to school. And so that was an invariably part of it. But I think the other part of the remote work thing is not something that's going to step back to the way it used to be anytime soon. 
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+That will come from Chris Caso with Raymond James. 
+
+--------------------------------------------------------------------------------
+Christopher Caso - Raymond James & Associates, Inc., Research Division - Research Analyst    [37]
+--------------------------------------------------------------------------------
+Yes. I guess first question is on iPhone pricing. There were some changes in the iPhone price back this year. The iPhone price point for iPhone 12 moved up a bit. And I guess the difference, the gap between 12 and 12 Pro is smaller. And I guess that's after you made some adjustments years prior where the price points came down a bit. Can you talk through the thought process behind that and the potential implications for either unit elasticity or blended ASP as a result of the price changes? 
+
+--------------------------------------------------------------------------------
+Timothy D. Cook - Apple Inc. - CEO &amp; Director    [38]
+--------------------------------------------------------------------------------
+Well, the iPhone 12 family starts at $699 in many places because you get -- and the deals that people are really paying are very different than that because a lot of people, particularly in this country but also in several of other countries in the world, connect to a carrier plan. And of course, those offers are much more aggressive. And so the price that a customer is paying is probably the most important one. 
+
+The iPhone 12 is at $799, and so I think what you're saying is there's a $200 difference there. But I would guess that people are viewing it more as a $300 difference between the 12 mini and the 12 Pro. And so we'll see what the mix turns out. Right now, we have no data other than 12 and 12 Pro. We lack the data on the 12 mini and the Pro Max because we're not taking orders yet. But what we try to always do in pricing is give the customer a great value, and I feel like we really did that this year. And that's despite, as was mentioned earlier, all of the extra features that we placed into the phones, including 5G. Thanks for the question. 
+
+--------------------------------------------------------------------------------
+Christopher Caso - Raymond James & Associates, Inc., Research Division - Research Analyst    [39]
+--------------------------------------------------------------------------------
+All right. As a follow-up, the -- you mentioned some of the carrier incentives we've seen here in the U.S. And if you could provide some more color about that, about what you're seeing now. And obviously, as we went through years ago, the incentives from carriers were a lot larger. Does this mark some shift in the approach of carriers as we're moving into 5G? What's the extent of the permanence of some of these incentives? And then as 5G rolls out around the world into other geographies, is this something we should expect that as either they try to protect from switchers or kind of promote the 5G networks, we'll see a higher prevalence of incentives from carriers as we go forward? 
+
+--------------------------------------------------------------------------------
+Timothy D. Cook - Apple Inc. - CEO &amp; Director    [40]
+--------------------------------------------------------------------------------
+I don't want to speak for our carrier partners. That would be up to them to talk about their plans. Generally, I think it's, to the vast, vast majority of carriers around the world, to their -- in their interest to move customers to 5G, and I think it's in the customers' interest to move to 5G. And obviously, we like that as well. And so I think you have a situation where everyone's oaring in the same direction. And that's a very different kind of situation than normally we would have. 
+
+And so it is one of the things, as I alluded to earlier, that makes me very bullish, only one though -- the other things are very important, too, the size of the installed base, the product lineup. These things are critically important as well. 
+
+--------------------------------------------------------------------------------
+Tejas Gala - Apple Inc. - IR Contact    [41]
+--------------------------------------------------------------------------------
+Thank you, Chris. A replay of today's call will be available for 2 weeks on Apple Podcasts, as a webcast on apple.com/investor and via telephone. The numbers for the telephone replay are (888) 203-1112 or (719) 457-0820. Please enter confirmation code 9501153. These replays will be available by approximately 5:00 p.m. Pacific Time today. Members of the press with additional questions can contact Kristin Huguet at (408) 974-2414. Financial analysts can contact me with additional questions at (669) 227-2402. Thank you again for joining us. 
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+And again, that does conclude today's conference. Thank you all for joining us today. 
+
+--------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------
